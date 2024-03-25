@@ -26,12 +26,12 @@ also I was constantly in touch with our TL and SM
 
 ### My results of work:
 
-- [Main Folder]() consist:
- - [The Static testing - Informal Review](https://docs.google.com/spreadsheets/d/1HOq0uqU-imbR7ZNmbW4A3VUYRxGhFXhjvim2E92Mqyw/edit?usp=sharing)
- - [Login Page Checklist](https://drive.google.com/file/d/12YseFROxglJDcSv0yoeiFw2JJ_a6Ug_U/view?usp=sharing)
- - [Test Cases](https://docs.google.com/spreadsheets/d/1HOq0uqU-imbR7ZNmbW4A3VUYRxGhFXhjvim2E92Mqyw/edit?usp=sharing) - 23 TC
- - [Test Raports](https://drive.google.com/drive/folders/1VL_I5K6EcRVVd3Elvq7v_ZMYdkhWf0mu?usp=sharing) - 13 Passed, 10 Failed
- - [Bug Reports](https://drive.google.com/drive/folders/1jcKNSfpMNUkHUi8JmvlRi4whTM6sg1Lg?usp=sharing) - 11 Bug Reports 
+- [Main Folder](https://drive.google.com/drive/folders/1L-zNcb-hn0DycVll8Hgsl_aZ9t1zH_m_?usp=sharing):
+	- [The Static testing - Informal Review](https://docs.google.com/spreadsheets/d/1HOq0uqU-imbR7ZNmbW4A3VUYRxGhFXhjvim2E92Mqyw/edit?usp=sharing)
+	- [Login Page Checklist](https://drive.google.com/file/d/12YseFROxglJDcSv0yoeiFw2JJ_a6Ug_U/view?usp=sharing)
+	- [Test Cases](https://docs.google.com/spreadsheets/d/1HOq0uqU-imbR7ZNmbW4A3VUYRxGhFXhjvim2E92Mqyw/edit?usp=sharing) - 23 TC
+	- [Test Raports](https://drive.google.com/drive/folders/1VL_I5K6EcRVVd3Elvq7v_ZMYdkhWf0mu?usp=sharing) - 13 Passed, 10 Failed
+	- [Bug Reports](https://drive.google.com/drive/folders/1jcKNSfpMNUkHUi8JmvlRi4whTM6sg1Lg?usp=sharing) - 11 Bug Reports 
 
 ---
 
