@@ -27,10 +27,10 @@ also I was constantly in touch with our TL and SM
 
 - [Main Folder]() consist:
  - [The Static testing - Informal Review](https://docs.google.com/spreadsheets/d/1HOq0uqU-imbR7ZNmbW4A3VUYRxGhFXhjvim2E92Mqyw/edit?usp=sharing)
- - [Login Page Checklist]()
+ - [Login Page Checklist](https://drive.google.com/file/d/12YseFROxglJDcSv0yoeiFw2JJ_a6Ug_U/view?usp=sharing)
  - [Test Cases](https://docs.google.com/spreadsheets/d/1HOq0uqU-imbR7ZNmbW4A3VUYRxGhFXhjvim2E92Mqyw/edit?usp=sharing) - 23 TC
- - [Test Raports]() - 13 Passed, 11 Failed
- - [Bug Reports]() - 11 Bug Reports 
+ - [Test Raports](https://drive.google.com/drive/folders/1VL_I5K6EcRVVd3Elvq7v_ZMYdkhWf0mu?usp=sharing) - 13 Passed, 10 Failed
+ - [Bug Reports](https://drive.google.com/drive/folders/1jcKNSfpMNUkHUi8JmvlRi4whTM6sg1Lg?usp=sharing) - 11 Bug Reports 
 
 ---
 
@@ -48,8 +48,7 @@ also I was constantly in touch with our TL and SM
 ---
 
 ### Final presentation:
-[QA Masters - Presentation]() 
+[QA Masters - Presentation](https://docs.google.com/presentation/d/1mI2gYD8hxeG48YpJR8fsb2fenCQOM9BH/edit?usp=sharing&ouid=113173033041272762957&rtpof=true&sd=true) 
 
 ---
-Note: Due to work with a classified files and to GDPR of European Parliament some information aren't fully displayed
-Dopisac klauzule poufnosci
+<sub>Note: Due to nondisclosure agreement and keeping with GDPR, not all information is fully disclosed.</sub>
