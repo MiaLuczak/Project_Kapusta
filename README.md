@@ -2,6 +2,7 @@
 
 ## About Project
 
+![Kapustalogo](https://github.com/MioLuczak/Project_Kapusta/assets/150384855/c420afc7-27f8-462c-88a7-1d0e2e2ae520) <br>
 "Kapu$ta" is a educational web application to trace a monthly incomes and outcomes for your balance
 
 ---
