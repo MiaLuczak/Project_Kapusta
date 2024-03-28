@@ -48,8 +48,10 @@ also I was constantly in touch with our TL and SM
 
 ---
 
-### Final presentation:
-[QA Masters - Presentation](https://docs.google.com/presentation/d/1mI2gYD8hxeG48YpJR8fsb2fenCQOM9BH/edit?usp=sharing&ouid=113173033041272762957&rtpof=true&sd=true) 
+### Project overview:
+
+- [QA Masters - Presentation](https://docs.google.com/presentation/d/1mI2gYD8hxeG48YpJR8fsb2fenCQOM9BH/edit?usp=sharing&ouid=113173033041272762957&rtpof=true&sd=true) 
+- [My collegues results of work]()
 
 ---
-<sub>Note: Due to nondisclosure agreement and keeping with GDPR, not all information is fully disclosed.</sub>
+<sub>Note: Due to NDA agreement and keeping with GDPR, not all informations are fully disclosed.</sub>
