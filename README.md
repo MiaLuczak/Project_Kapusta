@@ -25,7 +25,7 @@ also I was constantly in touch with our TL and SM
 ### My results of work:
 
 - [Main Folder](https://drive.google.com/drive/folders/1L-zNcb-hn0DycVll8Hgsl_aZ9t1zH_m_?usp=sharing):
-	- [The Static testing - Informal Review](https://docs.google.com/spreadsheets/d/1HOq0uqU-imbR7ZNmbW4A3VUYRxGhFXhjvim2E92Mqyw/edit?usp=sharing)
+	- [The Static testing - Informal Review](https://docs.google.com/spreadsheets/d/1HOq0uqU-imbR7ZNmbW4A3VUYRxGhFXhjvim2E92Mqyw/edit?usp=sharing) | [PDF File](https://drive.google.com/file/d/1E9Z-1zotRoXXIBqSCV7HHjfBny62CnVv/view?usp=sharing)
 	- [Login Page Checklist](https://drive.google.com/file/d/12YseFROxglJDcSv0yoeiFw2JJ_a6Ug_U/view?usp=sharing)
 	- [Test Cases](https://docs.google.com/spreadsheets/d/1HOq0uqU-imbR7ZNmbW4A3VUYRxGhFXhjvim2E92Mqyw/edit?usp=sharing) 
 		- 23 Testcases
@@ -45,14 +45,14 @@ also I was constantly in touch with our TL and SM
 - Exploratory testing Chrome Extenstion
 - ShareX
 - Chrome DevTools
-- HTML Color finder ([(ArtyClick](https://colors.artyclick.com/color-name-finder/))
+- HTML Color finder ([ArtyClick](https://colors.artyclick.com/color-name-finder/))
 - Colors Contrast Checker ([Coolors](https://coolors.co/contrast-checker/112a46-acc8e5))
 
 ---
 
 ### Project overview:
 
-- [QA Masters - Presentation](https://docs.google.com/presentation/d/1mI2gYD8hxeG48YpJR8fsb2fenCQOM9BH/edit?usp=sharing&ouid=113173033041272762957&rtpof=true&sd=trhttps://docs.google.com/presentation/d/1p2eLoaPRGQX2ER1kgIOfCB6c-PUBouNZ/edit?usp=sharing&ouid=113173033041272762957&rtpof=true&sd=true) 
+- [QA Masters - Presentation](https://docs.google.com/presentation/d/1p2eLoaPRGQX2ER1kgIOfCB6c-PUBouNZ/edit?usp=sharing&ouid=113173033041272762957&rtpof=true&sd=true) 
 - [Trello Board Overview](https://drive.google.com/file/d/1sXORK5-ufOHHwxtr-OVQuoEUhmONx5jm/view?usp=sharing)
 - [My collegues/Our results of work](https://drive.google.com/drive/folders/1IsWcIo-pqrQrRPkNcDp3E_Oyj-srey_a)
 
