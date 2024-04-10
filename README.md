@@ -20,9 +20,8 @@ as it was a new thing to me I did appropriate research about how Login forms sho
 - As a Support of our Team Leader, I got a chance to review others' work and provide them a constructive and encouraging feedback,
 also I was constantly in touch with our TL and SM
 
----
 
-### My results of work:
+## My results of work:
 
 - [Main Folder](https://drive.google.com/drive/folders/1L-zNcb-hn0DycVll8Hgsl_aZ9t1zH_m_?usp=sharing):
 	- [The Static testing - Informal Review](https://docs.google.com/spreadsheets/d/1HOq0uqU-imbR7ZNmbW4A3VUYRxGhFXhjvim2E92Mqyw/edit?usp=sharing) | [PDF File](https://drive.google.com/file/d/1E9Z-1zotRoXXIBqSCV7HHjfBny62CnVv/view?usp=sharing)
@@ -41,16 +40,15 @@ also I was constantly in touch with our TL and SM
 - Figma
 - Google Workspace
 - Slack
-- BugMagnet Chrome Extenstion
-- Exploratory testing Chrome Extenstion
+- BugMagnet Chrome Extension
+- Exploratory testing Chrome Extension
 - ShareX
 - Chrome DevTools
 - HTML Color finder ([ArtyClick](https://colors.artyclick.com/color-name-finder/))
 - Colors Contrast Checker ([Coolors](https://coolors.co/contrast-checker/112a46-acc8e5))
 
----
 
-### Project overview:
+## Project overview:
 
 - [QA Masters - Presentation](https://docs.google.com/presentation/d/1p2eLoaPRGQX2ER1kgIOfCB6c-PUBouNZ/edit?usp=sharing&ouid=113173033041272762957&rtpof=true&sd=true) 
 - [Trello Board Overview](https://drive.google.com/file/d/1sXORK5-ufOHHwxtr-OVQuoEUhmONx5jm/view?usp=sharing)
