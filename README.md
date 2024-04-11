@@ -26,7 +26,7 @@ also, I was constantly in touch with our TL and SM
 - [Main Folder](https://drive.google.com/drive/folders/1L-zNcb-hn0DycVll8Hgsl_aZ9t1zH_m_?usp=sharing):
 	- [The Static testing - Informal Review](https://docs.google.com/spreadsheets/d/1HOq0uqU-imbR7ZNmbW4A3VUYRxGhFXhjvim2E92Mqyw/edit?usp=sharing) | [PDF File](https://drive.google.com/file/d/1E9Z-1zotRoXXIBqSCV7HHjfBny62CnVv/view?usp=sharing)
 	- [Login Page Checklist](https://drive.google.com/file/d/12YseFROxglJDcSv0yoeiFw2JJ_a6Ug_U/view?usp=sharing)
-	- [Test Cases](https://docs.google.com/spreadsheets/d/1HOq0uqU-imbR7ZNmbW4A3VUYRxGhFXhjvim2E92Mqyw/edit?usp=sharing) 
+	- [Test Cases](https://drive.google.com/drive/folders/17T_gE3DDkjCSLmF2SHUuYxx0Zsmb-yGG?usp=drive_link) 
 		- 23 Testcases
 	- [Test Raports](https://drive.google.com/drive/folders/1VL_I5K6EcRVVd3Elvq7v_ZMYdkhWf0mu?usp=sharing) 
 		- 13 Passed, 10 Failed
