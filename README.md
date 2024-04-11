@@ -3,7 +3,7 @@
 ## About Project
 
 ![Kapustalogo](https://github.com/MioLuczak/Project_Kapusta/assets/150384855/c420afc7-27f8-462c-88a7-1d0e2e2ae520) <br>
-"Kapu$ta" is a web application for the educational purpose, to trace a monthly incomes and outcomes of your money balance
+"Kapu$ta" is a web application for the educational purpose, of tracing monthly incomes and outcomes of your money balance
 
 ---
 
@@ -16,9 +16,9 @@ Our goal was to test the "Kapu$ta" application and give our opinion about lunchi
 - I participated in the QA Project in *agile Scrum methodology*, as a *Support of our Team Leader* and also a *Tester*
 - My duties were testing the Login page of the application, in both aspects of functionality and security of that form, 
 as it was a new thing to me I did appropriate research about how Login forms should look and behave
-- I was responsible also for the Static review of documentation that was provided to us
+- I was also responsible for the Static review of documentation that was provided to us
 - As a Support of our Team Leader, I got a chance to review others' work and provide them a constructive and encouraging feedback,
-also I was constantly in touch with our TL and SM
+also, I was constantly in touch with our TL and SM
 
 
 ## My results of work:
@@ -52,5 +52,5 @@ also I was constantly in touch with our TL and SM
 
 - [QA Masters - Presentation](https://docs.google.com/presentation/d/1p2eLoaPRGQX2ER1kgIOfCB6c-PUBouNZ/edit?usp=sharing&ouid=113173033041272762957&rtpof=true&sd=true) 
 - [Trello Board Overview](https://drive.google.com/file/d/1sXORK5-ufOHHwxtr-OVQuoEUhmONx5jm/view?usp=sharing)
-- [My collegues/Our results of work](https://drive.google.com/drive/folders/1IsWcIo-pqrQrRPkNcDp3E_Oyj-srey_a)
+- [My colleagues/Our results of work](https://drive.google.com/drive/folders/1IsWcIo-pqrQrRPkNcDp3E_Oyj-srey_a)
 
